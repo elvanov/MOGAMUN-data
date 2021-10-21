@@ -1,2 +1,2 @@
 # MOGAMUN-data
-Repository containing all data files used on the experiments from the MOGAMUN pre-print (https://www.biorxiv.org/content/10.1101/2020.05.25.114215v1)
+Repository containing all data files used on the experiments from the MOGAMUN paper (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009263).
